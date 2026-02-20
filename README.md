@@ -1,1 +1,1 @@
-# -Click-Clack-3000
+This is a custom mechanical macropad designed to streamline my workflow in coding and video editing. The build features four mechanical switches for quick-action shortcuts (like Cut, Paste, Undo, and Save). By moving repetitive tasks to dedicated physical buttons, this project helps me stay productive, focused, and adds a tactile element to my desk setup
